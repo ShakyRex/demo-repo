@@ -1,3 +1,3 @@
 # Demo
 
-just a review of what git does
+just a review of git
